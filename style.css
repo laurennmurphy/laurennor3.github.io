@@ -1,7 +1,7 @@
 body{
   background-color:#FFFFFF;
   font-family:'Droid Sans', sans-serif;
-  width:80%;
+  width:75%;
   margin-right:auto;
   margin-left:auto;
   overflow: 0;
@@ -10,7 +10,6 @@ body{
 #main {
   min-height: 100%;
   border:1px solid #7F2C35;
-  margin:auto;
   overflow:auto;
 }
 
@@ -30,6 +29,12 @@ body{
   position:relative;
   padding:8px;
   height:420px;
+}
+.content {
+  text-align: center;
+  width:80%;
+  margin-right:auto;
+  margin-left:auto;
 }
 
 #footer {
@@ -63,6 +68,7 @@ ol li{
 a:link {
   text-decoration:none;
   color:#000000;
+  font-weight: bold;
 }
 
 a:visited {
