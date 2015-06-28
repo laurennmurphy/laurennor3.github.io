@@ -1,0 +1,70 @@
+body{
+  background-color:#FFFFFF;
+  font-family:'Droid Sans', sans-serif;
+  width:80%;
+  margin-right:auto;
+  margin-left:auto;
+  overflow: 0;
+}
+
+#main {
+  min-height: 100%;
+  border:1px solid #7F2C35;
+  margin:auto;
+  overflow:auto;
+}
+
+#header {
+  background-color:#CC4754;
+  padding-bottom:1px;
+}
+
+#navigation {
+  position:relative;
+  text-align: right;
+  padding:2px;
+}
+
+#content {
+  background-color: #FFA5AE;
+  position:relative;
+  padding:8px;
+  height:420px;
+}
+
+#footer {
+  background-color: #7F2C35;
+  position:relative;
+  padding:9px;
+}
+
+h1{
+  text-align: center;
+  font-size:60px;
+}
+
+h2{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+ul li{
+    font-weight:bold;
+    display: inline;
+}
+
+ol li{
+  font-weight:bold;
+}
+
+a:link {
+  text-decoration:none;
+  color:#000000;
+}
+
+a:visited {
+  color: #7F2C35;
+}
