@@ -32,6 +32,13 @@ body{
   height:420px;
 }
 
+.content{
+  width:60%;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+}
+
 #footer {
   background-color: #7F2C35;
   position:relative;
