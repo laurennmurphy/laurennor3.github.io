@@ -1,38 +1,50 @@
 body{
-  background-color:#FFFFFF;
   font-family:'Droid Sans', sans-serif;
+  width:70%;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+header {
+  background-color:#CC4754;
+  margin:auto;
+  padding:1px;
+}
+
+nav {
+  text-align: right;
+}
+
+main {
+  background-color: #FFA5AE;
+  padding: 5px;
+  margin:0;
+}
+
+main section {
   width:80%;
   margin-right:auto;
   margin-left:auto;
-  overflow: 0;
 }
 
-#main {
-  min-height: 100%;
-  border:1px solid #7F2C35;
-  margin:auto;
-  overflow:auto;
+#container{
+  text-align: center;
+  height: 400px;
 }
 
-#header {
-  background-color:#CC4754;
-  padding-bottom:1px;
+#intro {
+  text-align: center;
 }
 
-#navigation {
-  position:relative;
-  text-align: right;
-  padding:2px;
+#blog-index{
+  text-align: left;
 }
 
-#content {
-  background-color: #FFA5AE;
-  position:relative;
-  padding:8px;
-  height:420px;
+#copyright{
+  text-align: center;
 }
 
-#footer {
+footer{
   background-color: #7F2C35;
   position:relative;
   padding:9px;
@@ -40,24 +52,18 @@ body{
 
 h1{
   text-align: center;
-  font-size:60px;
+  font-size:45px;
 }
 
-h2{
-  text-align: center;
-}
 
-h4{
-  text-align: center;
-}
-
-ul li{
+nav ul li{
     font-weight:bold;
     display: inline;
 }
 
-ol li{
+footer ul li{
   font-weight:bold;
+  display: inline;
 }
 
 a:link {
