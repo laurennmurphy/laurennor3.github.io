@@ -4,6 +4,7 @@
   margin:auto;
 }
 
-picture{
-  margin:auto;
+picture {
+  margin-right: auto;
+  margin-left: auto;
 }
