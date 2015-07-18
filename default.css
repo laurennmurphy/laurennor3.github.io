@@ -27,14 +27,14 @@ main section {
   margin-left:auto;
 }
 
+main picture img{
+    width: 100%;
+    height: auto;
+}
+
 #container{
   text-align: center;
   height: 400px;
-}
-
-#container img{
-  width: 100%;
-  height: auto;
 }
 
 #intro {
