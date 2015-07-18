@@ -32,6 +32,11 @@ main section {
   height: 400px;
 }
 
+#container img{
+  width: 100%;
+  height: auto;
+}
+
 #intro {
   text-align: center;
 }
