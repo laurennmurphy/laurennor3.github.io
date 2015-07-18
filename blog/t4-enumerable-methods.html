@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <title>Technical Blog: Enumerable Methods</title>
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="stylesheets/blog.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+  </head>
+    <body>
+        <header>
+          <nav>
+              <ul>
+                <li><a href="../index.html">home</a>.</li>
+                <li><a href="#">about</a>.</li>
+                <li><a href="#">portfolio</a>.</li>
+                <li><a href="index.html">blog</a>.</li>
+                <li><a href="../contact.html">contact me</a>.</li>
+              </ul>
+           </nav>
+        </header>
+
+<main>
+  <section id="heading">
+  <h2>Enumerable Methods</h2>
+  <h3>Week 4 of DBC's Remote Prepwork</h3>
+  <h4>07/12/2015</h4>
+</section>
+
+   <section id="blog">
+    <p>
+      Last week's blog focused on arrays and hashes, this week is about Enumerable Methods in Ruby. Enumerable methods are can be viewed a clean way of bundling code. One of the things I believe that makes one highly distinguishable in code is the length of it. It can be considered it an abridged way of writing code. Despite it's length, it's still pretty powerful. The syntax is as follows:
+      'map { |obj| block } → array'-from ruby-doc.org.
+    </p>
+    <p>
+      One example of an enumerable is the #map. The Enumerable#map iterator returns a new array based on the information typed into the block. The example below shows a way the #map method can be used.
+    <picture>
+      <img src="/imgs/enumerable_map.png" alt="Enumerable map example"/>
+    </picture>
+    </p>
+    <p>
+      In my example, I selected a range of consecutive numbers from 10 - 25 to map. According to the information in the parentheses, 'i' represents the object which is an integer. The block info 'i + 2' means two will be added to each integer in the range. As a result, 10 + 2 = 2, 11 + 2 = 3, 12 + 2 = 4...and so on. The new array formed by this data is on the right.
+    </p>
+    <p>Sources: <a href="http://ruby-doc.org/core-2.2.2/Enumerable.html#method-i-map">http://ruby-doc.org/core-2.2.2/Enumerable.html#method-i-map</a><br />
+    <a href="repl.it">repl.it</a><br />
+    </p>
+  </section>
+</main>
+
+ <footer>
+            <aside>
+              <ul>
+                <li><a href="http://www.pinterest.com/laurennor" target="_blank"><img src="/imgs/pinterest-sm.png" width="25" height="25" alt="Pinterest"/></a></li>
+                <li><a href="https://twitter.com/laurennor" target="_blank"><img src="/imgs/twitter_sm.png" width="25" height="25" alt="Twitter"/></a></li>
+                <li><a href="https://plus.google.com/+LaurenMurphy" target="_blank"><img src="/imgs/googleplus-sm.png" width="25" height="25" alt="Google+"/></a></li>
+                <li><a href="http://www.linkedin.com/in/laurenmurphy8" target="_blank"><img src="/imgs/linkedin_sm.png" width="25" height="25" alt="LinkedIn"/></a></li>
+                <li><a href="https://github.com/laurennor" target="_blank"><img src="/imgs/github_sm.png" width="25" height="25" alt="Github"/></a></li>
+              </ul>
+              </aside>
+            <section id ="copyright">
+              <h4>&#169; Lauren Murphy 2015. All Rights Reserved.</h4>
+            </section>
+      </footer>
+  </body>
+</html>
