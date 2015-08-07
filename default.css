@@ -52,6 +52,10 @@ main picture img{
  text-align: center;
 }
 
+#resume{
+  text-align: left;
+}
+
 #copyright{
   text-align: center;
 }
