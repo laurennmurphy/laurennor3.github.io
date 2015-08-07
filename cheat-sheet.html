@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <title>Ruby and JavaScript Cheat Sheet</title>
+  <link rel="stylesheet" type="text/css" href="default.css">
+  <link rel="stylesheet" type="text/css" href="stylesheets/cheatsheet.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+  </head>
+    <body>
+
+          <main>
+            <div id="container">
+            <section id="top">
+              <h2>Ruby and JavaScript Cheat Sheet</h2>
+              <h3>-collaborated with Julianna Rusakiewicz for this project-
+            </section>
+
+              <section id="left">
+                  <h3>Ruby Fundamentals</h3>
+
+                  <h4>Arrays</h4>
+                    <pre class="ruby">
+                      array = []
+                      array = [1, 2, 3, 4]
+                    </pre>
+                  <p>Adding a Value to an Array</p>
+                    <pre class="ruby">
+                      array = [1, 2, 3, 4]
+                      array.push(5)
+                      #=> array = [1, 2, 3, 4, 5]
+                    </pre>
+                  <p>Reversing an Array</p>
+                    <pre class="ruby">
+                      array = [1, 2, 3, 4]
+                      array.reverse
+                      #=> array = [5, 4, 3, 2, 1]
+                    </pre>
+                  <p>Joining Values in Array</p>
+                    <pre class="ruby">
+                      array = [1, 2, 3, 4]
+                      array.join
+                      #=> array = 12345
+                    </pre>
+                  <p>Determining Length of Array</p>
+                    <pre class="ruby">
+                      array = [1, 2, 3, 4]
+                      array.length
+                      #=> 4
+                    </pre>
+                  <p>Iterating Through an Array</p>
+                    <pre class="ruby">
+                      array = [1, 2, 3, 4]
+                      array.map { |x| x + 1}
+                      #=> array = [2, 3, 4, 5]
+                    </pre>
+              </section>
+
+              <section id="right">
+                  <h3>JavaScript Fundamentals</h3>
+
+                  <h4>Arrays</h4>
+                      <pre class="javascript">
+                        var array = [];
+                        var array = [1, 2, 3, 4];
+                      </pre>
+                  <p>Adding a Value to an Array</p>
+                      <pre class="javascript">
+                        var array = [1, 2, 3, 4];
+                        array.push("5");
+                        // → array = [1, 2, 3, 4, 5];
+                      </pre>
+                  <p>Reversing an Array</p>
+                      <pre class="javascript">
+                        var array = [1, 2, 3, 4];
+                        array.reverse();
+                        // → array = [5, 4, 3, 2, 1];
+                      </pre>
+                  <p>Joining Values in Array</p>
+                      <pre class="javascript">
+                        var array = [1, 2, 3, 4];
+                        var number = array.join(" ");
+                        // → number = 12345;
+                      </pre>
+                  <p>Determining Length of Array</p>
+                      <pre class="javascript">
+                        var array = [1, 2, 3, 4];
+                        array.length();
+                        // → 4;
+                      </pre>
+                  <p>Iterating Through an Array</p>
+                      <pre class="javascript">
+                        var array = [1, 2, 3, 4];
+                        var addition = array.map(function(num){
+                          return num + 1;
+                         });
+                        // → addition = [2, 3, 4, 5];
+                      </pre>
+              </section>
+
+              <aside>
+                  <h4>Further Reading</h4>
+                  <ul>
+                      <li><a href="http://ruby-doc.org/core-2.2.0/Array.html">Ruby Docs: Array</a></li>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">JavaScript Docs: Array</a></li>
+                  </ul>
+              </aside>
+            </div>
+          </main>
+        <footer>
+            <aside>
+              <ul>
+                <li><a href="http://www.pinterest.com/laurennor" target="_blank"><img src="/imgs/pinterest-sm.png" width="25" height="25" alt="Pinterest"/></a></li>
+                <li><a href="https://twitter.com/laurennor" target="_blank"><img src="/imgs/twitter_sm.png" width="25" height="25" alt="Twitter"/></a></li>
+                <li><a href="https://plus.google.com/+LaurenMurphy" target="_blank"><img src="/imgs/googleplus-sm.png" width="25" height="25" alt="Google+"/></a></li>
+                <li><a href="http://www.linkedin.com/in/laurenmurphy8" target="_blank"><img src="/imgs/linkedin_sm.png" width="25" height="25" alt="LinkedIn"/></a></li>
+                <li><a href="https://github.com/laurennor" target="_blank"><img src="/imgs/github_sm.png" width="25" height="25" alt="Github"/></a></li>
+              </ul>
+              </aside>
+            <section id="copyright">
+              <h4>&#169; Lauren Murphy 2015. All Rights Reserved.</h4>
+            </section>
+      </footer>
+  </body>
+</html>
