@@ -1,0 +1,28 @@
+body{
+    margin:auto;
+    padding: 10px;
+    overflow: auto;
+}
+#top {
+   text-align:center;
+   padding: 10px;
+}
+
+#left {
+   margin-left:auto;
+   float: left;
+   width: 45%;
+   padding:10px;
+}
+
+#right {
+    margin-left:auto;
+    float: right;
+    width: 45%;
+    padding: 10px;
+}
+aside{
+    float: bottom;
+    clear: both;
+    padding: 10px;
+}

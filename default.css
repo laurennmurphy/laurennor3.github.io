@@ -1,14 +1,16 @@
 body{
+  background: url("imgs/background.png");
+  background-size: cover;
+  background-position: center;
   font-family:'Droid Sans', sans-serif;
-  width:70%;
+  width:100%;
   margin-right:auto;
   margin-left:auto;
 }
 
 header {
-  background-color:#CC4754;
   margin:auto;
-  padding:1px;
+  padding:0.2em;
 }
 
 nav {
@@ -16,8 +18,9 @@ nav {
 }
 
 main {
-  background-color: #FFA5AE;
-  padding: 5px;
+  background: rgb (251,216,219); /* For browsers where rgba isn't supported */
+  background: rgba(251,216,219, 0.5);
+  padding: 3em;
   margin:0;
 }
 
@@ -34,7 +37,7 @@ main picture img{
 
 #container{
   text-align: center;
-  height: 400px;
+  height: 20em;
 }
 
 #intro {
@@ -43,6 +46,10 @@ main picture img{
 
 #blog-index{
   text-align: left;
+}
+
+#projects{
+ text-align: center;
 }
 
 #resume{
@@ -54,14 +61,13 @@ main picture img{
 }
 
 footer{
-  background-color: #7F2C35;
   position:relative;
-  padding:9px;
+  padding:1em;
 }
 
 h1{
   text-align: center;
-  font-size:45px;
+  font-size:3em;
 }
 
 

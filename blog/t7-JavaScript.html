@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <title>Technical Blog: Ruby vs JavaScript - Variables and Sorting </title>
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="stylesheets/blog.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+  </head>
+    <body>
+        <header>
+          <nav>
+              <ul>
+                <li><a href="../index.html">home</a>.</li>
+                <li><a href="../about.html">about</a>.</li>
+                <li><a href="projects/index.html">projects</a>.</li>
+                <li><a href="index.html">blog</a>.</li>
+                <li><a href="../contact.html">contact</a>.</li>
+              </ul>
+           </nav>
+        </header>
+
+<main>
+  <section id="heading">
+  <h2>Ruby vs JavaScript: Variables and Sorting </h2>
+  <h3>Week 7 of DBC's Remote Prepwork</h3>
+  <h4>08/02/2015</h4>
+</section>
+
+   <section id="blog">
+    <p>
+      This week we started studying JavaScript. As with a second language you're learning to speak, you have to learn to switch between syntaxes. In the case of programming languages, paying close attention to some of the similarities and differences will help you remember both. One of the first differences I noticed was that Ruby values simplicity in it's syntax while JavaScript tends to require more detail. In the examples below, you can see comparisons of how the syntax for both varies.
+    </p>
+    <p>Ruby example for sorting numbers
+      <pre class="ruby">
+        numbers = [2,94,5,6,80,70]
+        print numbers.sort     #->[2,94,5,6,80,70]
+      </pre>
+
+    </p>
+    <p>JavaScript example for sorting numbers
+      <pre class="javascript">
+        var numbers = [2,94,5,6,80,70];
+        console.log(numbers.sort());    //-> [2,94,5,6,80,70]
+      </pre>
+    </p>
+    <p>Unlike in Ruby, JavaScript syntax is very particular about the details. Note the semicolons that follow the code on each line. The other
+      important thing to remember is that variables must be defined using 'var' in JavaScript otherwise they remain undefined. Focusing on syntax structure is the key to maintaining good coding practices across languages.
+  </section>
+  <h4>Sources:</h4>
+    <p><a href="http://ruby-doc.org/core-2.2.0/Array.html#method-i-sort"> http://ruby-doc.org/core-2.2.0/Array.html#method-i-sort</a>
+    </p>
+    <p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort</a>
+    </p>
+</main>
+
+ <footer>
+            <aside>
+              <ul>
+                <li><a href="http://www.pinterest.com/laurennor" target="_blank"><img src="/imgs/pinterest-sm.png" width="25" height="25" alt="Pinterest"/></a></li>
+                <li><a href="https://twitter.com/laurennor" target="_blank"><img src="/imgs/twitter_sm.png" width="25" height="25" alt="Twitter"/></a></li>
+                <li><a href="https://plus.google.com/+LaurenMurphy" target="_blank"><img src="/imgs/googleplus-sm.png" width="25" height="25" alt="Google+"/></a></li>
+                <li><a href="http://www.linkedin.com/in/laurenmurphy8" target="_blank"><img src="/imgs/linkedin_sm.png" width="25" height="25" alt="LinkedIn"/></a></li>
+                <li><a href="https://github.com/laurennor" target="_blank"><img src="/imgs/github_sm.png" width="25" height="25" alt="Github"/></a></li>
+              </ul>
+              </aside>
+            <section id ="copyright">
+              <h4>&#169; Lauren Murphy 2015. All Rights Reserved.</h4>
+            </section>
+      </footer>
+  </body>
+</html>
