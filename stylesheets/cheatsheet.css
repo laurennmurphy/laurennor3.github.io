@@ -3,6 +3,12 @@ body{
     padding: 10px;
     overflow: auto;
 }
+#cheatsheet {
+  padding: 5em;
+  text-align: left;
+  margin:auto;
+}
+
 #top {
    text-align:center;
    padding: 10px;
