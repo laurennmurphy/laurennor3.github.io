@@ -19,7 +19,11 @@ One of the trickier things about Jekyll was understanding how it compilies my si
 
 **Sources**:
 - [Jekyll: Directory Structure](http://jekyllrb.com/docs/structure/)
+
 - [An Introduction to Jekyll, the Static Blog Generator](http://sdlambert.github.io/2015/03/15/an-overview-of-jekyll-the-static-blogging-platform/)
+
 - [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
+
 - [1-minute Jekyll on GitHub Pages setup](http://onthecode.com/post/2015/06/16/1-minute-jekyll-on-github-pages-setup.html)
+
 - [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/)
