@@ -1,0 +1,12 @@
+# Jekyll Site Settings
+
+tite: Lauren N. Murphy | Site
+name: 'Lauren Murphy'
+description: "I'm a developer-in-training. This is my personal website."
+baseurl: ""
+url: "http://laurennor.github.io"
+
+# Build Settings
+markdown: rdiscount
+hightlighter: pygments
+permalink: pretty
