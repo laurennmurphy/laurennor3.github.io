@@ -18,6 +18,7 @@ In a lot of ways, Jekyll could be considered the answer for people trying to min
 One of the trickier things about Jekyll was understanding how it compilies my site content. It took some trial and error but I'm happy with the overall design. Now, I can write my blog posts without having to worry about HTML and CSS coding. With this in mind, I would say the structure of my site has become more Jekyll than Hyde.
 
 **Sources**:
+
 - [Jekyll: Directory Structure](http://jekyllrb.com/docs/structure/)
 
 - [An Introduction to Jekyll, the Static Blog Generator](http://sdlambert.github.io/2015/03/15/an-overview-of-jekyll-the-static-blogging-platform/)
