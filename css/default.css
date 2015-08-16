@@ -1,11 +1,9 @@
 body{
-  background: url("imgs/background.png");
+  background: url("/assets/background.png");
   background-size: cover;
   background-position: center;
   font-family:'Droid Sans', sans-serif;
-  width:100%;
-  margin-right:auto;
-  margin-left:auto;
+  margin: auto;
 }
 
 header {
@@ -19,7 +17,7 @@ nav {
 
 main {
   background: rgb (251,216,219); /* For browsers where rgba isn't supported */
-  background: rgba(251,216,219, 0.5);
+  background: rgba(251,216,219, 0.75);
   padding: 3em;
   margin:0;
 }
@@ -37,11 +35,16 @@ main picture img{
 
 #container{
   text-align: center;
-  height: 20em;
+  height: 15em;
+  margin:auto;
 }
 
 #intro {
   text-align: center;
+}
+
+#about{
+  text-align: left;
 }
 
 #blog-index{
@@ -63,6 +66,7 @@ main picture img{
 footer{
   position:relative;
   padding:1em;
+  margin-bottom: 0;
 }
 
 h1{
