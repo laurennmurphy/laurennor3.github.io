@@ -19,6 +19,9 @@ In the examples below, I created examples of an array and hash on [repl.it](repl
 ![Hash example](/assets/hash_example.png)
 
 **Sources**:
+
 - [RubyDocs - About](https://www.ruby-lang.org/en/about/)
+
 - [RubyDocs - Array](http://ruby-doc.org/core-2.2.0/Array.html)
+
 - [RubyDocs - Hash](http://ruby-doc.org/core-2.2.0/Hash.html)

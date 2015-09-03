@@ -14,5 +14,7 @@ Stereotype threat is the feeling you're confirming some group-based limitation. 
 When I was a kid, I experienced situations like this as an African-American girl in the U.S.. At an early age, you notice and may wonder why you don't see people who look like you in a classroom or occupation. Sometimes it's difficult to push through these things that you become more and more aware of as your grow up especially when it is brought to your attention or you're singled out because of it. However, I've learned that it is important to try to not let these things prevent you from pursuing the things you are really passionate about in life.
 
 *Sources*:
+
 - [Reducing Stereotype Threat](http://www.reducingstereotypethreat.org/mechanisms.html)
+
 - [Claude M. Steele, "Identity and Stereotype Threat"](https://www.youtube.com/watch?v=q1fzIuuXlkk)

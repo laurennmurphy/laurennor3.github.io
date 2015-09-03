@@ -1,0 +1,40 @@
+/* CSS for Magic Eight ball project*/
+#magic-eight-ball {
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px
+
+}
+#question {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+#circle-text {
+  padding: 6em;
+}
+
+h1 {
+  color:white;
+}
+
+form {
+  color:white;
+}
+#answer {
+    display: none;
+    background-color:black;
+    border: 2px dotted black;
+    font-family: arial;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+}
+
+#circle {
+  width: 30em;
+  height: 30em;
+  background: black;
+  border-radius: 20em;
+}
