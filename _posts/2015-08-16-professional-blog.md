@@ -28,5 +28,6 @@ One of the trickier things about Jekyll was understanding how it compilies my si
 - [1-minute Jekyll on GitHub Pages setup](http://onthecode.com/post/2015/06/16/1-minute-jekyll-on-github-pages-setup.html)
 
 - [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/)
+<<<<<<< HEAD
 
 - [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
