@@ -16,6 +16,9 @@ So far my biggest struggle in Phase 0 has been getting used to having a publish 
 Looking back on fixed vs growth mindsets, I believe it is difficult to learn without a level of vulnerability. A fixed mindset focuses on a desire to always appear as though you have all the answers and avoid situations where you don't. Having a growth mindset means that you consider learning to be a process containing challenges and obstacles. I believe that being enrolled in DBC continues to help me broaden on how I learn. As a student in a cohort, the curiculum requires that we check in with our accountability groups and ask for help from our peers. Learning to code with others is just as important as learning to code on your own.
 
 *Sources*:
+
 - [Mind Style - Anthony Gregorc](http://web.cortland.edu/andersmd/learning/gregorc.htm">http://web.cortland.edu/andersmd/learning/gregorc.htm)
+
 - [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](http://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/">http://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/)
+
 - [Concrete Random](http://facstaff.gpc.edu/~jgutliph/Books/learning_styles/Concrete_Random.html">http://facstaff.gpc.edu/~jgutliph/Books/learning_styles/Concrete_Random.html)

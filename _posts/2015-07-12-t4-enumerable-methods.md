@@ -21,5 +21,7 @@ One example of an enumerable is the #map. The Enumerable#map iterator returns a 
 In my example, I selected a range of consecutive numbers from 10 - 25 to map. According to the information in the parentheses, 'i' represents the object which is an integer. The block info 'i + 2' means two will be added to each integer in the range. As a result, 10 + 2 = 2, 11 + 2 = 3, 12 + 2 = 4...and so on. The new array formed by this data is on the right.
 
 **Sources**:
+
 - [RubyDocs - Enumerable#map](http://ruby-doc.org/core-2.2.2/Enumerable.html#method-i-map)
+
 - [repl.it](repl.it)

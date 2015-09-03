@@ -26,5 +26,7 @@ console.log(numbers.sort());
 Unlike in Ruby, JavaScript syntax is very particular about the details. Note the semicolons that follow the code on each line. The other important thing to remember is that variables must be defined using 'var' in JavaScript otherwise they remain undefined. Focusing on syntax structure is the key to maintaining good coding practices across languages.
 
 **Sources**:
+
 - [RubyDocs - Array#sort](http://ruby-doc.org/core-2.2.0/Array.html#method-i-sort)
+
 - [MDN JavaScript: Array#sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)

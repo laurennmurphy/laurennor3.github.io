@@ -18,4 +18,5 @@ This week we learned more about Ruby variable scopes. In this programming langua
 - local_variable - usually lowercase without any symbols in front of them; local variable
 
 **Sources**:
-[Tutorials Point: Ruby Variables](http://www.tutorialspoint.com/ruby/ruby_variables.htm)
+
+- [Tutorials Point: Ruby Variables](http://www.tutorialspoint.com/ruby/ruby_variables.htm)

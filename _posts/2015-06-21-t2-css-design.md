@@ -27,5 +27,7 @@ When you use the display inline block code, your result will be blocks of text. 
 ![CSS Display Inline Block](/assets/css-inline-block.png)
 
 **Sources**:
-[Inline Block](http://dustwell.com/div-span-inline-block.html)
-[Picture Element](http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-picture-element)
+
+- [Inline Block](http://dustwell.com/div-span-inline-block.html)
+
+- [Picture Element](http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-picture-element)
