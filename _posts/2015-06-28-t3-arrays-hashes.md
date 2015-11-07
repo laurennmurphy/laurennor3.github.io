@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Arrays and Hashes
-tags: technical, dbc
+tags: technical, ruby
 ---
 ##Arrays & Hashes##
 
-###Week 3 of DBC's Remote Prepwork###
-
 ###06/28/2015###
 
-This was my first week coding with Ruby through the DBC program. Ruby is a programming language developed in the 90s by Yukihiro 'Matz' Matsumoto. Though I was excited about intro to Ruby week, I was still anxious about getting started. Learning Ruby is a bit like learning a foreign language minus the speaking bit.In order to solve problems using the language, you have to learn how to think in the language. So far, this is still a work in progress for me. In comparison to some of the other programming languages I've encountered its syntax is more simplified and forgiving.
+Ruby is a programming language developed in the 90s by Yukihiro 'Matz' Matsumoto. I've found that studying Ruby is a bit like learning a foreign language minus the speaking bit. In order to solve problems using the language, you have to learn how to think in the language. So far, this is still a work-in-progress for me. In comparison to some of the other programming languages I've encountered, its syntax is more simplified and forgiving. I believe this is why this is a popular backend programming language among beginners.
 
-Some of the Ruby concepts we focused on this week were arrays and hashes. Even though arrays and hashes are used to create collections of items, they differ in usage.
+This week I learned about arrays and hashes. Even though arrays and hashes are used to create collections of items, they differ in usage.
 
 In the examples below, I created examples of an array and hash on [repl.it](repl.it), an online coding site. In the first example, I created an array called 'favorite_movies.' Each movie responds to an number 0-5. In Ruby, numbers are referred to as integers. The second example is a hash called "tv_shows" created using keys and values.
 

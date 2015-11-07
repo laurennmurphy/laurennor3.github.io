@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Designing with CSS
-tag: technical, dbc
+tag: technical
 ---
 ##Designing with CSS##
 
-###Week 2 of DBC's Remote Prepwork###
-
 ###06/21/2015###
 
-This week was all about how awesome CSS is. Well, at least that's my intrepretation of anything relating to CSS but I'm bias. CSS stands for Cascading Style Sheet. When I was a kid, I remember playing around with HTML and building fan sites. Back then, I did not have any knowledge of CSS so I would have to constantly repeat “font” tags and “p” tags to change the look of my site. It was a very tedious process back then. These days using CSS to style your site is a good design practice. As websites have progressed, there has been a continuous shift toward simplifying code because there is a focus on responsive design. We have tablets, phones, laptops etc with different screen dimensions that web designer's now take into consideration when creating a site.This also doesn't include the other phases of design and development a creator must take.
+CSS stands for Cascading Style Sheet. When I was a kid, I remember playing around with HTML and building fan sites. Back then, I did not have any knowledge of CSS so I would have to constantly repeat “font” tags and “p” tags to change the look of my site. It was a very tedious process back then. These days using CSS to style your site is a good design practice. As websites have progressed, there has been a continuous shift toward simplifying code because there is a focus on responsive design. We have tablets, phones, laptops etc with different screen dimensions that web designer's now take into consideration when creating a site.This also doesn't include the other phases of design and development a creator must take.
 
 Below I've created sample code using HTML without CSS and HTML with CSS to show the difference. The output for both is the same but as you can see the amount of code needed to create it varies.
 
