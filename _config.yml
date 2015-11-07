@@ -8,5 +8,5 @@ url: "http://laurennor.github.io"
 
 # Build Settings
 markdown: rdiscount
-hightlighter: pygments
+hightlighter: rouge
 permalink: pretty
