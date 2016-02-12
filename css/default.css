@@ -1,9 +1,6 @@
 body{
-  background: url("/assets/background.png");
-  background-size: cover;
-  background-position: center;
+  background-color:#271031;
   font-family:'Droid Sans', sans-serif;
-  margin: auto;
 }
 
 header {
