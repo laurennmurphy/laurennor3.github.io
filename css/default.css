@@ -1,24 +1,23 @@
 body{
-  background color: url("/assets/background.png");
-  background-size: cover;
-  background-position: center;
   font-family:'Droid Sans', sans-serif;
-  margin: auto;
+  width: 80%;
 }
 
 header {
+  background-color:#191919;
   margin:auto;
-  padding:0.2em;
+  padding:0.1em;
+  color:#FFF056;
 }
 
 nav {
   text-align: right;
+  color:#FFF056;
 }
 
 main {
-  background: rgb (251,216,219); /* For browsers where rgba isn't supported */
-  background: rgba(251,216,219, 0.75);
-  padding: 3em;
+  background-color:#DFE2DB;
+  padding: 5em;
   margin:0;
 }
 
@@ -35,7 +34,7 @@ main picture img{
 
 #container{
   text-align: center;
-  height: 15em;
+  height: 10em;
   margin:auto;
 }
 
@@ -64,14 +63,20 @@ main picture img{
 }
 
 footer{
+  background-color:#FFF056;
   position:relative;
-  padding:1em;
+  padding:0.1em;
   margin-bottom: 0;
 }
 
 h1{
+  color:#FFF056;
   text-align: center;
-  font-size:3em;
+  font-size:2em;
+}
+
+h3{
+  text-align: center;
 }
 
 
@@ -85,12 +90,18 @@ footer ul li{
   display: inline;
 }
 
+
 a:link {
   text-decoration:none;
   color:#000000;
   font-weight: bold;
 }
 
+nav a:visited {
+  color: #4C4819;
+}
+
+
 a:visited {
-  color: #7F2C35;
+  color: #333011;
 }
