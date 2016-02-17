@@ -97,6 +97,12 @@ a:link {
   font-weight: bold;
 }
 
+nav a:link{
+  text-decoration:none;
+  color:#FFF056;
+  font-weight: bold;
+}
+
 nav a:visited {
   color: #4C4819;
 }
