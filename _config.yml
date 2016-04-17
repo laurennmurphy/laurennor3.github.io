@@ -5,14 +5,8 @@ name: 'Lauren Murphy'
 description: "I'm a developer-in-training. This is my personal website."
 baseurl: ""
 url: "http://laurennor.github.io"
-twitter_username: laurennor
-github_username: laurennor
 
 # Build Settings
 markdown: kramdown
-hightlighter: pygments
+hightlighter: rouge
 permalink: pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed

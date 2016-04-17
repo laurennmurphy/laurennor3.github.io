@@ -5,7 +5,7 @@ tags: technical, ruby
 ---
 ##Arrays & Hashes##
 
-##06/28/2015##
+###06/28/2015###
 
 Ruby is a programming language developed in the 90s by Yukihiro 'Matz' Matsumoto. I've found that studying Ruby is a bit like learning a foreign language minus the speaking bit. In order to solve problems using the language, you have to learn how to think in the language. So far, this is still a work-in-progress for me. In comparison to some of the other programming languages I've encountered, its syntax is more simplified and forgiving. I believe this is why this is a popular backend programming language among beginners.
 

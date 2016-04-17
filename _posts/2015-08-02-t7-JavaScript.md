@@ -5,7 +5,7 @@ tags: technical, ruby, javascript
 ---
 ##Ruby vs JavaScript Variables and Sorting##
 
-##08/02/2015##
+###08/02/2015##
 
 This week I started studying basic JavaScript. As with a second language you're learning, you have to learn to switch between syntaxes. In the case of programming languages, paying close attention to some of the similarities and differences will help you remember both. One of the first differences I noticed was that Ruby values simplicity in it's syntax while JavaScript tends to require more detail. In the examples below, you can see comparisons of how the syntax for both varies.
 

@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Enumerable Methods
-tags: technical
+tags: technical, dbc
 ---
 ##Enumerable Methods##
 
-##07/12/2015##
+###Week 4 of DBC's Remote Prepwork###
+
+###07/12/2015##
 
 Last week's blog focused on arrays and hashes, this week is about Enumerable Methods in Ruby. Enumerable methods are can be viewed a clean way of bundling code. One of the things I believe that makes one highly distinguishable in code is the length of it. It can be considered it an abridged way of writing code. Despite it's length, it's still pretty powerful.
 
------
-The syntax is as follows*:
+*The syntax is as follows*:
  map { |obj| block } → array
-------
-
  -from ruby-doc.org.
 
 One example of an enumerable is the #map. The Enumerable#map iterator returns a new array based on the information typed into the block. The example below shows a way the #map method can be used.
