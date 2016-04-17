@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Ruby Classes
-tags: technical, dbc
+tags: technical
 ---
 ##Ruby Classes##
 
-###Week 5 of DBC's Remote Prepwork###
-
-###07/19/2015##
+##07/19/2015##
 
 This week we focused on how to use Classes in Ruby. Classes are considered a blueprint of Ruby's design. Since Ruby is an Object-Oriented programming language, classes are used to create objects. Once the class is created, the methods and information is organized inside of the array. Below I created a code snippet that shows how classes in Ruby work.
 

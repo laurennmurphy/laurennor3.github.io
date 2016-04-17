@@ -5,7 +5,7 @@ tags: coderetreat
 ---
 ##Attending a Code Retreat for the first time##
 
-###11/14/2015##
+##11/14/2015##
 
 The Global Code Retreat was the first event I signed up for I did not thoroughly research which is pretty unsual. It was a busy week of new Java concepts so I suppose it slipped my mind to do so after I rsvped through Eventbrite and added it to my calendar. In the end, perhaps it was for the best. As a new programmer, it is easy to psyche yourself out when attending a code event you've never heard of by believing you aren't good enough or don't know enough to attend. First thing I knew was that I would be about two hours late to it which also made me anxious because I had to wait for an important morning delivery.
 

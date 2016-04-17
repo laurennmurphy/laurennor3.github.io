@@ -5,7 +5,7 @@ tags: other, jekyll
 ---
 ##More Jekyll Than Hyde##
 
-###08/16/2015##
+##08/16/2015#
 
 Recently, I decided to use Jekyll on my site. Jekyll is a static blog. One of the things I like about it is that it minimizes the amount of HTML and CSS I needed to add content to my site. Instead of having to apply CSS links and HTML code to every page I create, it allows me to store the information in "includes" and "layouts" folders.
 
