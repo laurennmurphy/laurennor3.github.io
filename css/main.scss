@@ -1,0 +1,57 @@
+/**
+ * Foundation for Sites by ZURB
+ * Version 6.2.1
+ * foundation.zurb.com
+ * Licensed under MIT Open Source
+ */
+
+---
+---
+
+$secondary-color: #B688F4;
+$dropdownmenu-background: #1F1E20;
+
+@import 'foundation';
+@include foundation-everything;
+
+body{
+background-color: #5F3A90;
+
+
+main {
+
+  .top-bar{
+  background:#5F3A90;
+  padding: 0.9.rem;
+  }
+
+  .top-bar{
+    background: $menu-background;
+      ul{
+      background: $menu-background;
+        li{
+          background: $menu-background;
+
+          a{
+            color: #fff;
+          }
+        }
+      }
+  }
+  @include grid-row;
+  article {
+    header, div:first {
+      @include grid-column(12);
+    }
+  }
+  padding : {
+    left: 20px;
+    right: 20px;
+  }
+}
+}
+footer {
+  padding: 20px;
+  background-color: black;
+  color: white;
+}

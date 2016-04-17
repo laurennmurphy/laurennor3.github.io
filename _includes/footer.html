@@ -1,5 +1,5 @@
-<footer>
-  <aside>
+<footer class="site-footer">
+<!--   <aside>
     <ul>
       <li><a href="http://www.pinterest.com/laurennor" target="_blank"><img src="/assets/pinterest-sm.png" width="25" height="25" alt="Pinterest"/></a></li>
       <li><a href="https://twitter.com/laurennor" target="_blank"><img src="/assets/twitter_sm.png" width="25" height="25" alt="Twitter"/></a></li>
@@ -10,5 +10,14 @@
   </aside>
   <section id="copyright">
     <h4>&#169; Lauren Murphy 2015. All Rights Reserved.</h4>
-  </section>
+  </section> -->
+
+  <h2 class="footer-heading">{{ site.title }}</h2>
+  <p>{{ site.title }}</p>
+  <p>{{ site.description }}</p>
+
+  <script src="/js/foundation.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
 </footer>

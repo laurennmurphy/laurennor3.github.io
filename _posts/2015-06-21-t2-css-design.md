@@ -5,7 +5,7 @@ tag: technical
 ---
 ##Designing with CSS##
 
-###06/21/2015###
+##06/21/2015##
 
 CSS stands for Cascading Style Sheet. When I was a kid, I remember playing around with HTML and building fan sites. Back then, I did not have any knowledge of CSS so I would have to constantly repeat “font” tags and “p” tags to change the look of my site. It was a very tedious process back then. These days using CSS to style your site is a good design practice. As websites have progressed, there has been a continuous shift toward simplifying code because there is a focus on responsive design. We have tablets, phones, laptops etc with different screen dimensions that web designer's now take into consideration when creating a site.This also doesn't include the other phases of design and development a creator must take.
 
